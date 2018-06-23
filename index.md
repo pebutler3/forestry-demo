@@ -25,7 +25,7 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-show_staff: true
+show_staff: false
 menu:
   navigation:
     name: Home

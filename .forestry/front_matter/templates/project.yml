@@ -28,6 +28,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _projects/epilepsy-monitoring.md
-- _projects/electric-vehicle-design.md
 - _projects/modern-engineering.md
+- _projects/electric-vehicle-design.md
+- _projects/epilepsy-monitoring.md

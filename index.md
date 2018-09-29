@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Mikayla's Law Site
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -28,8 +28,8 @@ show_news: true
 show_staff: false
 menu:
   navigation:
-    name: Home
     identifier: _index
     url: "/"
     weight: 1
+
 ---

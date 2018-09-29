@@ -37,9 +37,9 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/martin-marino.md
+- _people/kellie-brewer.md
 - _people/grady-nerio.md
 - _people/charlize-babatunde.md
 - _people/murphy-tiernan.md
-- _people/kellie-brewer.md
 - _people/mary-ann-macswain.md
-- _people/martin-marino.md

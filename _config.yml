@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Colorado Law Access 
+short_title: CLA
+description: Colorado Law Access
 baseurl:
 permalink: "/:path/"
 defaults:
